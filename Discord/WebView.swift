@@ -108,6 +108,10 @@ var suffixedCSSStyles: [String: [String: String]] = [
     ],
     "outer": [
         "background-color": "transparent"
+    ],
+    "container__55c99": [
+        "background-color": "rgba(0, 0, 0, 0.65)",
+        "-webkit-backdrop-filter": "blur(10px)"
     ]
 ]
 
