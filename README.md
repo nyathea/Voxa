@@ -56,6 +56,7 @@ https://voxa.peril.lol
 ```shell
 curl -sL https://voxa.peril.lol/install | bash
 ```
+you can view the install script here: https://github.com/voxa-org/voxa.peril.lol/blob/main/public/scripts/install
 
 ### Using a Prebuilt Release
 
